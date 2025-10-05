@@ -1,0 +1,18 @@
+.flare-info-panel,
+.flare-right-panel {
+  font-family: 'Bitcount Single Ink', monospace, sans-serif;
+  font-size: 22px;
+  color: #FFD47F;
+  background: rgba(20, 20, 20, 0.92);
+  padding: 22px 26px;
+  border-radius: 18px;
+  box-shadow: 0 0 18px 2px #000, 0 0 4px #ffd47f inset;
+  line-height: 1.35;
+  text-shadow: 1px 1px 5px #ebb427, 0 0 2px #fff;
+}
+
+.flare-right-panel {
+  max-width: 420px;
+  min-width: 240px;
+  margin-left: 0;
+}
